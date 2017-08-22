@@ -1,0 +1,26 @@
+.hh{
+	background-image:url('5.jpg');
+       
+	background-position:relative;
+        background-size:cover;
+        background-repeat:no-repeat;
+	background-width:200px;
+}
+.box{
+	width:500px;
+	height:300px;
+	margin:200px 0 0 350px;
+	background-color:#72e9df;
+	border-radius:8px;
+	border: 2px solid white;
+
+}.inbox{
+	margin-top:10px;
+	width:250px;
+	padding:7px;
+        height:30px;
+	font-family:kristen ITC;
+	border-radius:5px;
+	box-shadow:0 0 5px 3px;
+
+}
